@@ -1,0 +1,6 @@
+NAME=libnl
+VERSION=3.4.0
+REVISION=1
+LICENSE=LGPL-2.1-or-later
+SRC=https://github.com/thom311/libnl/releases/download/libnl3_4_0/libnl-3.4.0.tar.gz
+SRCMD5=8f71910c03db363b41e2ea62057a4311
